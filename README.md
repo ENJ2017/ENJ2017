@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ENJ2017
-- 👀 I’m interested in C Python Java
+- 👀 I’m interested in C Python Golang
 - 🌱 I’m currently learning All above
 
 <!---
